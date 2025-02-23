@@ -1,22 +1,23 @@
 # 👋 Hello, I'm Aniket Saha!
 
-🌟 ML Enthusiast | Student*
+🌟 Software Engineer | AI Enthusiast | Student*
 
-Welcome to my GitHub profile! I'm Aniket, a dedicated ML Engineer with a passion for solving complex problems and building efficient solutions. My journey in tech is fueled by a relentless curiosity and a drive to continuously improve, learn and innovate.
+Welcome to my GitHub profile! I'm Aniket, a dedicated Software Engineer with a passion for solving complex problems and building efficient solutions, along side creating web applications. My journey in tech is fueled by a relentless curiosity and a drive to continuously improve, learn and innovate.
 
 ## 📚 About Me
 
-- 🔭 *Currently working on:* Exciting cpp projects and ML models.
-- 🌱 *Learning:* Bash Scripting, DSA, and exploring the depths of Operating System and Networkings.
+- 🔭 *Currently working on:* Exciting Web Dev projects and AI models.
+- 🌱 *Learning:* JAVA, DSA, and exploring the depths of Full Stack Developement.
 - 👯 *Looking to collaborate on:* Innovative projects that challenge my skills and knowledge.
-- 💬 *Ask me about:* Linux, Python, and any kind of Tech related to Machine Learning.
-- 📫 *How to reach me:*  [LinkedIn](https://www.linkedin.com/in/aniket-saha-929901276/) | [aniket_a14_ on Instagram](https://www.instagram.com/aniket_a14/)
+- 💬 *Ask me about:* Linux, Python, C++, JavaScript, JAVA and any kind of Tech related to Web Developement.
+- 📫 *How to reach me:*  [LinkedIn](https://www.linkedin.com/in/aniket-saha-929901276/) | [Instagram](https://www.instagram.com/aniket_a14/)
 
 
 ## 🛠️ Skills & Tools
 
-- *Languages:* Bash, Python, C, C++, Java, HTML, CSS, MySQL
+- *Languages:* Bash, Python, C, C++, Java, HTML, CSS, SQL, JavaScript
 - *Tools:* Linux tools, GitHub, VSCode
+- *Frameworks:* React, Next.js, TailwindCSS
 
 ## 📊 GitHub Stats
 
