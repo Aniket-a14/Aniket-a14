@@ -16,7 +16,7 @@ My work often focuses on combining **core software engineering principles** with
 - 👯 **Looking to collaborate on:** AI-driven tools, developer platforms, and impactful open-source projects  
 - 💬 **Ask me about:** Linux, Python, C++, JavaScript, Java, APIs, backend logic, and full-stack development  
 - 📫 **How to reach me:**  
-  [LinkedIn](https://www.linkedin.com/in/aniket-saha-929901276/)  
+  [LinkedIn](https://www.linkedin.com/in/aniketsaha2005/)  
   [Instagram](https://www.instagram.com/aniket_a14/)
 
 ---
