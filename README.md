@@ -1,6 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=220&section=header&text=Aniket%20Saha&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Systems%20Specialist&descAlignY=55&descAlign=50" alt="Aniket Saha Header" width="100%" />
 
+  <br>
+
+  <a href="https://github.com/Aniket-a14">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=00c3ff&center=true&vCenter=true&width=600&lines=Architecting+Intelligent+AI+Agents;Mastering+C%2B%2B+%26+Systems+Engineering;Building+Scalable+Full-Stack+Ecosystems;Computer+Science+Student+%40+LPU" alt="Typing Animation" />
+  </a>
+
+
   <h3>
     <i>"Building systems that think, learn, and solve real-world problems."</i>
   </h3>
@@ -124,6 +131,12 @@ I aim to evolve from a builder to a **Technical Architect**.
 
   <a href="https://github.com/Aniket-a14">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket-a14&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/Aniket-a14">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket-a14&theme=tokyonight&hide_border=true&area=true&bg_color=00000000" width="100%" alt="Activity Graph" />
   </a>
 
 </div>
