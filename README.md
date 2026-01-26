@@ -112,7 +112,7 @@ I aim to evolve from a builder to a **Technical Architect**.
 
 <div align="center">
 
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: space-evenly; gap: 10px; margin-bottom: 10px;">
     <a href="https://github.com/Aniket-a14">
       <img src="https://github-readme-stats.vercel.app/api?username=Aniket-a14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="Stats" />
     </a>
@@ -143,7 +143,7 @@ I aim to evolve from a builder to a **Technical Architect**.
 
 <div align="center">
   
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: space-evenly; gap: 10px; margin-bottom: 10px;">
     <a href="https://leetcode.com/u/Wizard_a14/">
         <img src="https://leetcard.jacoblin.cool/Wizard_a14?theme=dark&font=Alata&ext=heatmap" height="180" />
     </a>
@@ -152,7 +152,7 @@ I aim to evolve from a builder to a **Technical Architect**.
     </a>
   </div>
 
-  <div style="display: flex; justify-content: center; gap: 10px;">
+  <div style="display: flex; justify-content: space-evenly; gap: 10px;">
     <a href="https://codeforces.com/profile/Wizard_a14">
         <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Wizard_a14&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" height="180" />
     </a>
