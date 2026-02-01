@@ -3,7 +3,7 @@
   <!-- Premium Animated Banner with Overlay -->
   <div style="position: relative; width: 100%;">
     <img src="assets/banner.gif" alt="Aniket Saha Banner" width="100%" />
-    <div style="position: absolute; top: 70%; left: 50%; transform: translate(-50%, -50%);">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
       <a href="https://github.com/Aniket-a14">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1A1A2E&background=F5F5F500&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Aniket+Saha;+AI+Engineer+%7C+Full-Stack+Architect;+Systems+Engineer+%7C+C%2B%2B+Specialist;+Crafting+Digital+Experiences" alt="Typing Animation" />
       </a>
