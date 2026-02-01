@@ -7,7 +7,7 @@
 
   <!-- Name & Typing Animation -->
   <a href="https://github.com/Aniket-a14">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1A1A2E&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Aniket+Saha;AI+Engineer+%7C+Full-Stack+Architect;Systems+Engineer+%7C+C%2B%2B+Specialist;Crafting+Digital+Experiences+%E2%9C%A8" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=Hey%2C+I'm+Aniket+Saha;AI+Engineer+%7C+Full-Stack+Architect;Systems+Engineer+%7C+C%2B%2B+Specialist;Crafting+Digital+Experiences+%E2%9C%A8" alt="Typing Animation" />
   </a>
 
   <h4>
