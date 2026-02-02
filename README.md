@@ -193,7 +193,7 @@ I aim to evolve from a builder to a **Technical Architect**.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110932](https://github.com/firstcontributions/first-contributions/pull/110932) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. ❌ Closed PR [#33](https://github.com/Aniket-a14/SRA/pull/33) in [Aniket-a14/SRA](https://github.com/Aniket-a14/SRA)
 <!--END_SECTION:activity-->
 
 ---
