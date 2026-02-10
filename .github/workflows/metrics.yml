@@ -21,7 +21,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
           config_animations: yes
-          config_display: large
           config_padding: 0, 8 + 4%
           
           # Content Order
