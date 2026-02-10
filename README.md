@@ -18,16 +18,16 @@
 
   <!-- Social & Contact Badges -->
   <a href="https://aniketdev.in">
-    <img src="https://img.shields.io/badge/Portfolio-aniketdev.in-0D1117?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-aniketdev.in-0D1117?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/aniketsaha2005/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/aniket_a14/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:contact@aniketdev.in">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <br><br>
@@ -51,12 +51,13 @@
   <tr>
     <td valign="center" width="60%">
       <br>
-      Hi, I'm <b>Aniket Saha</b>, a Computer Science student at <b>Lovely Professional University (LPU)</b>, India. 🇮🇳
+      Hi, I'm <b>Aniket Saha</b>.
       <br><br>
-      I am a <b>curious builder</b> who believes in creating technology that solves real human problems. My core strength lies in <b>C++ and Systems Engineering</b>, which I combine with modern <b>AI Agents</b> and <b>Full-Stack Web Technologies</b> to build intelligent, scalable applications.
+      I engineer <b>intelligent systems</b> that solve complex problems with simplicity.
       <br><br>
-      🚀 <b>Currently Building:</b> AI Chatbots & Intelligent Voice Assistants <br>
-      🌱 <b>Learning:</b> Distributed Systems & Advanced LLM Architectures <br>
+      My work bridges <b>System-Level C++</b> efficiency with modern <b>AI Agents</b> and <b>Full-Stack Architectures</b>. I don't just build features; I build <b>solutions</b>.
+      <br><br>
+      🚀 <b>Focus:</b> Advanced LLM Architectures & Distributed Systems<br>
       ⚡ <b>Philosophy:</b> <i>"Build things that matter."</i>
     </td>
     <td valign="center" width="40%">
@@ -75,43 +76,43 @@ I treat my stack as a toolbox for innovation—selecting the right tool for the 
 
 ### 💻 Core Languages
 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
 ### 🌐 Frontend & Design
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
 ### ⚙️ Backend & Databases
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
 ### 🤖 AI & Machine Learning
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
 
 </div>
 
@@ -128,7 +129,7 @@ My recent work focuses on combining **AI Intelligence** with **Robust Full-Stack
       <h3>🔮 SRA - Smart Requirements Analyzer</h3>
       <p>An AI-powered system for intelligent software requirements analysis and validation.</p>
       <a href="https://github.com/Aniket-a14/SRA">
-        <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" />
       </a>
       <br><br>
       <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
@@ -140,7 +141,7 @@ My recent work focuses on combining **AI Intelligence** with **Robust Full-Stack
       <h3>🧙 Wizard-w1 - AI Data Analyst</h3>
       <p>A Python-based AI agent for intelligent data processing and analysis.</p>
       <a href="https://github.com/Aniket-a14/Wizard-w1">
-        <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" />
       </a>
       <br><br>
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
@@ -153,7 +154,7 @@ My recent work focuses on combining **AI Intelligence** with **Robust Full-Stack
       <h3>🤖 AI Friend - Voice Companion</h3>
       <p>An intelligent AI companion with human-like voice, memory, and emotional understanding.</p>
       <a href="https://github.com/Aniket-a14/AI_friend">
-        <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" />
       </a>
       <br><br>
       <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
@@ -165,7 +166,7 @@ My recent work focuses on combining **AI Intelligence** with **Robust Full-Stack
       <h3>📄 AI Resume Analyzer</h3>
       <p>AI-powered resume analyzer with ATS scoring and job description matching.</p>
       <a href="https://github.com/Aniket-a14/ai-resume-analyser">
-        <img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" />
       </a>
       <br><br>
       <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react" />
@@ -198,30 +199,11 @@ I aim to evolve from a builder to a **Technical Architect**.
 
 ---
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-  <div style="display: flex; justify-content: space-evenly; gap: 10px; margin-bottom: 10px;">
-    <a href="https://github.com/Aniket-a14">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aniket-a14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="Stats" />
-    </a>
-    <a href="https://github.com/Aniket-a14">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-a14&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="Languages" />
-    </a>
-  </div>
-
-  <a href="https://github.com/Aniket-a14">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket-a14&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/Aniket-a14">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniket-a14&theme=tokyonight&hide_border=true&area=true&bg_color=00000000" width="100%" alt="Activity Graph" />
-  </a>
-
+  <img src="https://raw.githubusercontent.com/Aniket-a14/Aniket-a14/output/github-metrics.svg" height="150" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/Aniket-a14/Aniket-a14/output/github-metrics-langs.svg" height="150" alt="Languages" />
 </div>
 
 <br>
@@ -262,11 +244,11 @@ I aim to evolve from a builder to a **Technical Architect**.
 <div align="center">
 
   <a href="https://aniketdev.in">
-    <img src="https://img.shields.io/badge/Website-aniketdev.in-0D1117?style=for-the-badge&logo=safari&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-aniketdev.in-0D1117?style=flat-square&logo=safari&logoColor=white" />
   </a>
 
   <br><br>
 
-  <b>Let's build the future, one line of code at a time. 🚀</b>
+  <i>Let's build the future, one line of code at a time. 🚀</i>
 
 </div>
