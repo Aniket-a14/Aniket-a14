@@ -202,8 +202,7 @@ I aim to evolve from a builder to a **Technical Architect**.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aniket-a14/Aniket-a14/output/github-metrics.svg" height="150" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/Aniket-a14/Aniket-a14/output/github-metrics-langs.svg" height="150" alt="Languages" />
+  <img src="https://raw.githubusercontent.com/Aniket-a14/Aniket-a14/output/github-metrics.svg" width="100%" alt="Metrics Dashboard" />
 </div>
 
 <br>
