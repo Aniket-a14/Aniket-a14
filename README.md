@@ -94,7 +94,7 @@ I aim to evolve from a builder to a **Technical Architect**.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#960](https://github.com/magicuidesign/magicui/pull/960#issuecomment-4363046558) in [magicuidesign/magicui](https://github.com/magicuidesign/magicui)
+1. 🗣 Commented on [#30](https://github.com/Aniket-a14/AI_friend/pull/30#issuecomment-4458214719) in [Aniket-a14/AI_friend](https://github.com/Aniket-a14/AI_friend)
 <!--END_SECTION:activity-->
 
 ---
