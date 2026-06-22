@@ -141,7 +141,7 @@ I aim to evolve from a builder to a **Technical Architect**.
 ---
 
 <div align="center">
-  <a href="https://aniketdev.in">
+  <a href="https://aniketdesign.in">
     <img src="https://img.shields.io/badge/Website-aniketdev.in-0D1117?style=flat-square&logo=safari&logoColor=white" />
   </a>
   <br><br>
