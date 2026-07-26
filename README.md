@@ -94,7 +94,7 @@ I aim to evolve from a builder to a **Technical Architect**.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.1.0](https://github.com/Aniket-a14/SRA/releases/tag/v4.1.0) in [Aniket-a14/SRA](https://github.com/Aniket-a14/SRA)
+1. 🔒 Closed issue [#114](https://github.com/Aniket-a14/SRA/issues/114) in [Aniket-a14/SRA](https://github.com/Aniket-a14/SRA)
 <!--END_SECTION:activity-->
 
 ---
