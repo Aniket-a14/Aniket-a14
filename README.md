@@ -94,7 +94,7 @@ I aim to evolve from a builder to a **Technical Architect**.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28024](https://github.com/directus/directus/pull/28024) in [directus/directus](https://github.com/directus/directus)
+1. 🗣 Commented on [#28023](https://github.com/directus/directus/pull/28023#issuecomment-5159046704) in [directus/directus](https://github.com/directus/directus)
 <!--END_SECTION:activity-->
 
 ---
