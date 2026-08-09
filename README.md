@@ -94,7 +94,7 @@ I aim to evolve from a builder to a **Technical Architect**.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Wizard w2 — evolution roadmap kickoff](https://github.com/Wizard-AIA/Wizard-w2/releases/tag/v2.0.0-w2-planning) in [Wizard-AIA/Wizard-w2](https://github.com/Wizard-AIA/Wizard-w2)
+1. 💪 Opened PR [#103](https://github.com/Wizard-AIA/Wizard-w2/pull/103) in [Wizard-AIA/Wizard-w2](https://github.com/Wizard-AIA/Wizard-w2)
 <!--END_SECTION:activity-->
 
 ---
