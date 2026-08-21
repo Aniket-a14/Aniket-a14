@@ -94,7 +94,7 @@ I aim to evolve from a builder to a **Technical Architect**.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#132](https://github.com/Wizard-AIA/Wizard-w2/pull/132) in [Wizard-AIA/Wizard-w2](https://github.com/Wizard-AIA/Wizard-w2)
+1. 🔒 Closed issue [#135](https://github.com/Aniket-a14/SRA/issues/135) in [Aniket-a14/SRA](https://github.com/Aniket-a14/SRA)
 <!--END_SECTION:activity-->
 
 ---
