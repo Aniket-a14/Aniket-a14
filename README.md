@@ -94,7 +94,7 @@ I aim to evolve from a builder to a **Technical Architect**.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66591](https://github.com/pandas-dev/pandas/pull/66591) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+1. 🎉 Merged PR [#189](https://github.com/Aniket-a14/AI_friend/pull/189) in [Aniket-a14/AI_friend](https://github.com/Aniket-a14/AI_friend)
 <!--END_SECTION:activity-->
 
 ---
